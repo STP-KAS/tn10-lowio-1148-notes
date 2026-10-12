@@ -1,0 +1,1 @@
+utc_time,node,preset,ram_scale,load_tx_s,disk_write_bytes_total,compactions_total,compaction_cpu_s,rss_bytes,db_size_bytes,ibd_phase,ibd_elapsed_s,virtual_daa_score,sink_lag_s,mempool_size,fee_estimate_priority,note
